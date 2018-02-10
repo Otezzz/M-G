@@ -24,7 +24,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Fallout 3 (PS3)</td>
       <td></td>
       <td></td>
       <td></td>
