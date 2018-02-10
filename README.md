@@ -1,4 +1,4 @@
-# My-Goals
+# M-G
 <table>
   <thead>
     <tr>
