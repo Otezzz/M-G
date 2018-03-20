@@ -33,7 +33,16 @@
     <tr>
       <td></td>
       <td></td>
+      <td>Valkiria Chronicles (PS3)</td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Mario Golf (GC)</td>
       <td></td>
       <td></td>
       <td></td>
