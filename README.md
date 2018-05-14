@@ -66,5 +66,23 @@
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Resident Evil HD Remake (PS4)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Final Fight 2 (SNES)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
