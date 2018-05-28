@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td></td>
-      <td></td>
+      <td>Hearts In Atlantis (S.King)</td>
       <td>Legend of Zelda: Ocarina of time (GC)</td>
       <td></td>
       <td></td>
