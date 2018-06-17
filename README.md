@@ -96,7 +96,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td>Tomb Raider (Original PAL) (PS)</td>
+      <td>Tomb Raider (Orig PAL) (PS)</td>
       <td></td>
       <td></td>
       <td></td>
