@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td></td>
-      <td></td>
+      <td>Цусима (Новиков-Прибой) IP </td>
       <td>Fallout 3 (PS3)</td>
       <td></td>
       <td></td>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td></td>
-      <td></td>
+      <td>Маус (Арт Шпигельманн) IP </td>
       <td>Valkiria Chronicles (PS3)</td>
       <td></td>
       <td></td>
@@ -169,6 +169,114 @@
       <td></td>
       <td></td>
       <td>Evil Within (PS4)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Evil Within: The Assignement (PS4)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Evil Within: The Consequence (PS4)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Dark Souls 2 (PS3)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Evil Within: The Executioner (PS4)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>999 (PS4)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Dirt 4 (PS4) IP </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Final Fantasy 12-II (PS3) IP </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Amnesia (PS4) IP </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Batman (NES) IP </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Tomb Raider 3 (PS) IP </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>TOCA Racing 2 (PS2) IP </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Star Wars: Rogue Leader (GC) IP </td>
       <td></td>
       <td></td>
       <td></td>
