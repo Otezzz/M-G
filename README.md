@@ -231,7 +231,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td>Final Fantasy 12-II (PS3) IP </td>
+      <td>Final Fantasy 13-II (PS3) IP </td>
       <td></td>
       <td></td>
       <td></td>
@@ -240,7 +240,25 @@
     <tr>
       <td></td>
       <td></td>
-      <td>Amnesia (PS4) IP </td>
+      <td>Amnesia (PS4) </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Amnesia: Justine (PS4) </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Swapper (PS4) </td>
       <td></td>
       <td></td>
       <td></td>
@@ -258,6 +276,15 @@
     <tr>
       <td></td>
       <td></td>
+      <td>Batman: Arkham Knight (PS4) IP </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
       <td>Tomb Raider 3 (PS) IP </td>
       <td></td>
       <td></td>
@@ -267,7 +294,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td>TOCA Racing 2 (PS2) IP </td>
+      <td>TOCA Racing 3 (PS2) IP </td>
       <td></td>
       <td></td>
       <td></td>
